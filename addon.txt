@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"				"CORE" 
+	"version"			"1.0"
+	"author_name"		"Aide (Clark)"
+	"author_email"		""
+	"author_url"		"
+	"info"				"Admin, Anticheat, Store, Votemap, Stats"
+}

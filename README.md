@@ -1,0 +1,1 @@
+Basically Tribelink (an admin mod) rewrite that no one wanted. Vary little code was carried over. Needs sql tables & a db to work. Use at your own risk.
